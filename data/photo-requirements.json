@@ -10,8 +10,8 @@
   "company": "QMETER L.L.C-FZ",
   "url": "https://ovalight.com"
  },
- "date_modified": "2026-10-07",
- "record_count": 155,
+ "date_modified": "2026-10-08",
+ "record_count": 156,
  "country_count": 52,
  "notes": "Summaries of what each authority publishes; the official source prevails. Confidence: high = every rule confirmed on an official source; medium = some details ambiguous or unconfirmed; low = no official page could be read (secondary sources). Ranges use null for an unpublished bound. 1 MB = 1000 KB unless the source gives an exact byte limit.",
  "records": [
@@ -1764,6 +1764,213 @@
      "url": "https://sda.gov.ge/products/%e1%83%9e%e1%83%90%e1%83%a1%e1%83%9e%e1%83%9d%e1%83%a0%e1%83%a2%e1%83%98/",
      "title": "პასპორტი — სახელმწიფო სერვისების განვითარების სააგენტო",
      "publisher": "sda.gov.ge"
+    }
+   ]
+  },
+  {
+   "id": "de-driving-licence",
+   "country_code": "DE",
+   "country": "Germany",
+   "document_type": "driving_licence",
+   "document": "German driving licence (Führerschein): first licence, exchange of an old licence, replacement",
+   "title": "Germany Driving Licence Photo",
+   "page_url": "https://ovalight.com/en/germany/driving-licence-photo/",
+   "print": {
+    "width_mm": 35,
+    "height_mm": 45,
+    "width_in": 1.38,
+    "height_in": 1.77,
+    "defined_in": "mm"
+   },
+   "digital": {
+    "width_px": 895,
+    "height_px": 1150,
+    "min_px": 895,
+    "max_px": null,
+    "aspect": "35:45",
+    "min_kb": null,
+    "max_kb": 3000,
+    "formats": [
+     "jpeg"
+    ]
+   },
+   "head_height_mm": {
+    "min": 32,
+    "max": 36
+   },
+   "head_height_pct": {
+    "min": 70,
+    "max": 80
+   },
+   "eye_line_from_bottom_mm": null,
+   "top_margin_mm": null,
+   "background": {
+    "allowed": [
+     "light grey",
+     "plain light colour"
+    ],
+    "hex": null
+   },
+   "expression": "Neutral expression, mouth closed, looking straight into the camera.",
+   "glasses": "Glasses are allowed if your eyes are clearly visible: no tinted lenses, no reflections, and the frame must not cover your eyes.",
+   "head_covering": "Not allowed, except for religious reasons; your face must then be visible from chin to forehead with no shadows. Medical exceptions are decided by the licence office.",
+   "children": "Applicants are at least 15, so the adult rules apply.",
+   "max_photo_age_months": null,
+   "home_photo_accepted": true,
+   "photo_capture": "self",
+   "print_requirement": "photo_paper_recommended",
+   "confidence": "high",
+   "verified_on": "2026-10-08",
+   "sources": [
+    {
+     "url": "https://www.gesetze-im-internet.de/fev_2010/__21.html",
+     "title": "§ 21 FeV — Antrag auf Erteilung einer Fahrerlaubnis (Abs. 3 Nr. 2: Lichtbild nach der Passverordnung)",
+     "publisher": "gesetze-im-internet.de (Bundesministerium der Justiz)"
+    },
+    {
+     "url": "https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html",
+     "title": "Fahrerlaubnis-Verordnung (FeV), full text incl. § 25 and § 25a (Stand: Art. 3 V v. 12.8.2026)",
+     "publisher": "gesetze-im-internet.de (Bundesministerium der Justiz)"
+    },
+    {
+     "url": "https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html",
+     "title": "Passverordnung (PassV), current text: § 16 Lichtbild and Anlage 8 Anforderungen an das Lichtbild",
+     "publisher": "gesetze-im-internet.de (Bundesministerium der Justiz)"
+    },
+    {
+     "url": "https://www.bundesdruckerei.de/de/system/files/dokumente/pdf/Fotomustertafel-72dpi.pdf",
+     "title": "Fotomustertafel — Qualitätsmerkmale biometrischer Fotos für Dokumente (Stand Juli 2025), linked by Stuttgart Führerscheinstelle",
+     "publisher": "Bundesdruckerei / Bundesministerium des Innern"
+    },
+    {
+     "url": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/04/neue-passbilder.html",
+     "title": "Vereinfachte Ausweisbeantragung ab Mai 2025 (scope of the digital-photo rule)",
+     "publisher": "Bundesministerium des Innern"
+    },
+    {
+     "url": "https://www.bmv.de/SharedDocs/DE/Artikel/StV/Digitalisierung-der-Mobilitaet/digitale-verwaltungsleistungen-in-der-mobilitaet.html",
+     "title": "Digitale Verwaltungsleistungen in der Mobilität — Digitaler Führerscheinantrag",
+     "publisher": "Bundesministerium für Verkehr (BMV)"
+    },
+    {
+     "url": "https://wirtschaft.hessen.de/verkehr/strassenverkehr/onlinezugangsgesetz/digitaler-fuehrerscheinantrag",
+     "title": "Digitaler Führerscheinantrag (EfA)",
+     "publisher": "Hessisches Ministerium für Wirtschaft, Energie, Verkehr, Wohnen und ländlichen Raum"
+    },
+    {
+     "url": "https://service.berlin.de/dienstleistung/121627/",
+     "title": "Fahrerlaubnis - Ersterteilung beantragen",
+     "publisher": "Service Berlin (Land Berlin)"
+    },
+    {
+     "url": "https://service.berlin.de/dienstleistung/124556/",
+     "title": "Fahrerlaubnis - Umtausch eines alten Führerscheins in einen EU-Kartenführerschein",
+     "publisher": "Service Berlin (Land Berlin)"
+    },
+    {
+     "url": "https://service.berlin.de/dienstleistung/121593/",
+     "title": "Fahrerlaubnis - Ersatzführerschein nach Verlust oder Diebstahl",
+     "publisher": "Service Berlin (Land Berlin)"
+    },
+    {
+     "url": "https://www.hamburg.de/service/info/11433171/n0/",
+     "title": "Führerschein beantragen (Erstantrag)",
+     "publisher": "hamburg.de (Freie und Hansestadt Hamburg)"
+    },
+    {
+     "url": "https://www.hamburg.de/service/info/111101773/",
+     "title": "Führerschein Umtausch eines Kartenführerscheins beim Hamburg-Service vor Ort",
+     "publisher": "hamburg.de (Freie und Hansestadt Hamburg)"
+    },
+    {
+     "url": "https://stadt.muenchen.de/service/info/fuhrerscheinstelle/1064232/",
+     "title": "Fahrerlaubnis – Erstantrag (Führerscheinstelle)",
+     "publisher": "Landeshauptstadt München (KVR)"
+    },
+    {
+     "url": "https://stadt.muenchen.de/dms//Home/Stadtverwaltung/Kreisverwaltungsreferat/fachspezifisch/HA-III/Dokumente/Fuehrerschein/Fahrerlaubnis-erstmaligV1_final.pdf",
+     "title": "Antrag erstmalige Fahrerlaubnis (PDF, 'Passfoto hier aufkleben')",
+     "publisher": "Landeshauptstadt München (KVR)"
+    },
+    {
+     "url": "https://stadt.muenchen.de/news/digitale-passbilder.html",
+     "title": "Digitale Passbilder für Ausweis und Reisepass",
+     "publisher": "Landeshauptstadt München (KVR)"
+    },
+    {
+     "url": "https://www.stadt-koeln.de/service/produkte/00028/index.html",
+     "title": "Führerschein (Ersterteilung) — incl. online application photo rules",
+     "publisher": "Stadt Köln"
+    },
+    {
+     "url": "https://www.stadt-koeln.de/artikel/73981/index.html",
+     "title": "Biometrisches E-Passbild",
+     "publisher": "Stadt Köln"
+    },
+    {
+     "url": "https://www.stadt-koeln.de/artikel/74316/index.html",
+     "title": "Online-Antrag: Führerschein-Pflichtumtausch",
+     "publisher": "Stadt Köln"
+    },
+    {
+     "url": "https://web.archive.org/web/20260916140744/https://frankfurt.de/leistungen/Fahrzeug-und-Verkehr-8957833/Fahrerlaubnis-Fuehrerschein-8958393/Fuehrerschein-Ersterteilung-Erstantrag",
+     "title": "Führerschein - Ersterteilung, Erstantrag (Wayback copy 2026-09-16; live page behind bot check)",
+     "publisher": "Stadt Frankfurt am Main"
+    },
+    {
+     "url": "https://web.archive.org/web/20251130055320/https://frankfurt.de/Leistungen/Ausweis-und-Pass-8958304/Weitere-Informationen-8958313/Selbstbedienungsterminal",
+     "title": "Selbstbedienungsterminal (Wayback copy 2025-11-30)",
+     "publisher": "Stadt Frankfurt am Main"
+    },
+    {
+     "url": "https://www.stuttgart.de/organigramm/leistungen/fuehrerschein-beantragen-erstmalig",
+     "title": "Führerschein beantragen - erstmalig",
+     "publisher": "Landeshauptstadt Stuttgart"
+    },
+    {
+     "url": "https://www.stuttgart.de/organigramm/leistungen/digitales-lichtbild-fuer-personalausweise-und-reisepaesse",
+     "title": "Digitales Lichtbild für Personalausweise und Reisepässe",
+     "publisher": "Landeshauptstadt Stuttgart"
+    },
+    {
+     "url": "https://www.stuttgart.de/service/aktuelle-meldungen/2025/juli/ab-1.august-fotos-fuer-ausweisdokumente-und-elektronischen-aufenthaltstitel-nur-noch-digital",
+     "title": "Fotos für Ausweisdokumente und elektronischen Aufenthaltstitel nur noch digital (Juli 2025)",
+     "publisher": "Landeshauptstadt Stuttgart"
+    },
+    {
+     "url": "https://hannover.gov.de/portal/seiten/biometrische-bilder-1103-30810.html",
+     "title": "Biometrische Bilder",
+     "publisher": "Landeshauptstadt Hannover"
+    },
+    {
+     "url": "https://service.essen.de/detail/-/vr-bis-detail/dienstleistung/4777883/show",
+     "title": "Ersterteilung einer Fahrerlaubnis (online: JPG/JPEG, ≥895×1150 px, ≤3 MB)",
+     "publisher": "Stadt Essen"
+    },
+    {
+     "url": "https://serviceportal.wuppertal.de/suche/-/vr-bis-detail/dienstleistung/1505570/show",
+     "title": "Fahrerlaubnis (Führerschein) - Erweiterung (online: JPEG 413×532 px)",
+     "publisher": "Stadt Wuppertal"
+    },
+    {
+     "url": "https://alfter.kommunalportal.nrw/detail/-/vr-bis-detail/dienstleistung/41340/show",
+     "title": "Rhein-Sieg-Kreis: Online-Antrag auf Führerschein-Ersterteilung",
+     "publisher": "Kommunalportal NRW (Gemeinde Alfter / Rhein-Sieg-Kreis)"
+    },
+    {
+     "url": "https://www.kreis-tuebingen.de/bauen_verkehr/verkehr/feb/lichtbild+fuer+den+fuehrerschein",
+     "title": "Lichtbild für den Führerschein",
+     "publisher": "Landratsamt Tübingen"
+    },
+    {
+     "url": "https://www.landkreis-landshut.de/aktuelles/aktuelle-meldungen/fuehrerschein-weiter-ausgedrucktes-passbild-noetig/",
+     "title": "Führerschein - Weiter ausgedrucktes Passbild nötig (03.09.2025)",
+     "publisher": "Landratsamt Landshut"
+    },
+    {
+     "url": "https://www.kreis-lup.de/fahrerlaubnis",
+     "title": "Führerscheinstelle — Allgemeiner Hinweis zu erforderlichen Lichtbildern",
+     "publisher": "Landkreis Ludwigslust-Parchim"
     }
    ]
   },

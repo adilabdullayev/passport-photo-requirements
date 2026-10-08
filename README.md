@@ -1,6 +1,6 @@
 # Passport, visa and ID photo requirements by country
 
-Open data on the photo rules for **155 passport, visa and ID documents in 52 countries**: printed size, digital file size, head height, background colour, expression, glasses, children, photo age, and whether a photo taken at home is accepted. Every record links to the source it was taken from and carries the date it was last checked.
+Open data on the photo rules for **156 passport, visa and ID documents in 52 countries**: printed size, digital file size, head height, background colour, expression, glasses, children, photo age, and whether a photo taken at home is accepted. Every record links to the source it was taken from and carries the date it was last checked.
 
 - `data/photo-requirements.csv`: one row per document, flat columns
 - `data/photo-requirements.json`: the same records with nested fields and the full list of sources
